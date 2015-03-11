@@ -7,3 +7,7 @@
 # All rights reserved - Do Not Redistribute
 #
 include_recipe "hostname"
+
+package "htop" do
+  action :install
+end
