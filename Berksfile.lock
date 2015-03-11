@@ -1,0 +1,7 @@
+DEPENDENCIES
+  hostname (~> 0.3.0)
+
+GRAPH
+  hostname (0.3.0)
+    hostsfile (>= 0.0.0)
+  hostsfile (2.4.5)
